@@ -20,6 +20,7 @@ public class DivisaoPorZeroProgram {
         }
         System.out.println("Final do programa!");
         sc.close();
+        sc.close();
 
     }
 }
